@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Architecture, The University of Tokyo, 2020
+* M.S. in Architecture, The University of Tokyo, 2017
+* B.S. in Architectural Engineering, Harbin Institute of Technology, 2014
 
 Work experience
 ======
@@ -34,12 +34,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Heat Pump and Refrigeration
+  * Vapor Compression Cycle
+  * Thermoelectric Cycle
+* Building Energy Modeling
+  * Modelica
+  * EnergyPlus
+  * Julia
+  * Python
+* Optimization and Control
+  * Reinforcement Learning
+  * Model Predictive Control
+  * Dynamic Programming
 
 Publications
 ======
