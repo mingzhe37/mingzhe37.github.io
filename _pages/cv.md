@@ -17,20 +17,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - Present: Research Engineer
+  * Texas A&M University
+  * Duties included: Heat Pump, Dehumidification, Building Energy Modeling and Control
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022 - 2023: Postdoctoral Researcher
+  * Texas A&M University
+  * Duties included: Heat Pump, Dehumidification, Building Energy Modeling and Control
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - 2022: Research Assistant
+  * University of Colorado Boulder
+  * Duties included: Building and District Energy Modeling, Optimization and Control
   
 Skills
 ======
