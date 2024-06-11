@@ -35,10 +35,8 @@ Skills
   * Vapor Compression Cycle
   * Thermoelectric Cycle
 * Building Energy Modeling
-  * Modelica
-  * EnergyPlus
-  * Julia
-  * Python
+  * Modelica, EnergyPlus
+  * Julia, Python
 * Optimization and Control
   * Reinforcement Learning
   * Model Predictive Control
