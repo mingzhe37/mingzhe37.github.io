@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mingzhe Liu",
+    "label": "Research Engineer",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "mingzhe.liu@tamu.edu",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "I am currently a Research Engineer in the Department of Mechanical Engineering at Texas A&M University, with a strong background in building physics and data science. I have a strong background in building physics, data science, and machine learning, and I am proficient in Julia, Python, and Modelica. I am passionate about developing innovative solutions to complex problems and have a proven track record of delivering high-quality research and innovative solutions to complex building physics problems.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "3123 TAMU",
+      "postalCode": "TX 77843-3123",
+      "city": "College Station",
       "countryCode": "US",
-      "region": "California"
+      "region": "Texas"
     },
     "profiles": [
       {
